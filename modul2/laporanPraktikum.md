@@ -1,7 +1,7 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - REVIEW ALGORITMA DAN PEMROGRAMAN 1 </h1>
+# <h1 align="center">Laporan Praktikum Modul 2 - REVIEW ALGORITMA DAN PEMROGRAMAN 1 </h1>
 <p align="center">Satriya Wahyu Prakoso - 109082500219</p>
 
-## Unguided 
+## Guided 
 
 ### 1. SoalA
 #### soalA.go
@@ -27,12 +27,12 @@ func main() {
 	fmt.Println("Output akhir = " + satu + " " + dua + " " + tiga)
 }
 ```
-### Output Unguided :
+### Output Guided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalA.png)
+![Screenshot Output Guided A_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalA.png)
 
-##### Deskripsi Program
+##### Penjelasan
 Program ini digunakan untuk menukar posisi tiga string yang dimasukkan oleh user dengan bantuan variabel sementara (temp). Jadi program ini menunjukkan perubahan urutan data. Program ditulis dengan bahasa Go.
 
 package main digunakan agar program bisa dijalankan.
@@ -73,9 +73,9 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 2_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalB.png)
+![Screenshot Output Unguided B_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalB.png)
 
-##### Deskripsi Program
+##### Penjelasan
 Program ini digunakan untuk memeriksa apakah input pengguna selama 5 percobaan sama dengan urutan warna yang sudah ditentukan. Program ditulas dengan bahasa Go.
 
 package main digunakan agar program bisa dijalankan.
@@ -123,9 +123,9 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalC1.png)
+![Screenshot Output Unguided C_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalC1.png)
 
-![Screenshot Output Unguided 3_2](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalC2.png)
+![Screenshot Output Unguided C_2](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalC2.png)
 
 ##### Deskripsi Program
 Program ini digunakan untuk menghitung biaya pengiriman parsel berdasarkan berat dalam gram. Program akan memisahkan berat menjadi kilogram dan sisa gram, lalu menghitung biaya sesuai aturan tertentu. Program ditulis dengan bahasa Go.
