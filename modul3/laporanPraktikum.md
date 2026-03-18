@@ -37,7 +37,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalA.png)
+![Screenshot Output Unguided 1_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul3/output/output-soal1.png)
 
 ##### Penjelasan
 Program ini digunakan untuk 
@@ -75,7 +75,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 2_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalB.png)
+![Screenshot Output Unguided 2_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul3/output/output-soal2.png)
 
 ##### Penjelasan
 Program ini digunakan untuk 
@@ -125,7 +125,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul2/output/output-soalC1.png)
+![Screenshot Output Unguided 3_1](https://github.com/sxtryya/109082500219_SatriyaWahyuPrakoso/blob/main/modul3/output/output-soal3.png)
 
 ##### Deskripsi Program
 Program ini digunakan untuk
